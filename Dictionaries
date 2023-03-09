@@ -31,3 +31,25 @@ for key, value in person.items():
 # name John
 # age 30
 
+
+#LOOPING IN DICTIONARIES
+
+#In Python, you can loop through dictionaries using loops such as for loops. There are several ways to loop through a dictionary, depending on what information you need to access. 
+#Here are some examples:
+
+#Looping through keys: You can loop through the keys of a dictionary using the keys() method. For example:
+
+person = {'name': 'John', 'age': 30}
+for key in person.keys():
+    print(key)
+# Output:
+# name
+# age
+
+#Looping through values: You can loop through the values of a dictionary using the values() method. For example:
+person = {'name': 'John', 'age': 30}
+for value in person.values():
+    print(value)
+# Output:
+# John
+# 30
