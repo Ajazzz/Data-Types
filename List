@@ -1,3 +1,8 @@
+# List:
+# A list is a collection of items, which can be of different types such as strings, integers, or even other lists. 
+# Lists are mutable, meaning you can change their contents.
+
+
 #Lists are a commonly used data type in Python, and there are a few common problems that can arise when working with them. 
 #Here are some examples of list problems and solutions:
 
