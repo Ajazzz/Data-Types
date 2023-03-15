@@ -1,0 +1,11 @@
+# A tuple is an ordered collection of items that cannot be modified once created.
+
+# Creating a tuple
+my_tuple = (1, 2, 3)
+
+# Accessing items in a tuple
+print(my_tuple[0])  # prints 1
+
+# Iterating over a tuple
+for item in my_tuple:
+    print(item)
