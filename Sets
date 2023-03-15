@@ -1,0 +1,14 @@
+# A set is an unordered collection of unique items.
+
+# Creating a set
+fruits = {"apple", "banana", "cherry"}
+
+# Adding an item to a set
+fruits.add("orange")
+
+# Removing an item from a set
+fruits.remove("banana")
+
+# Iterating over a set
+for fruit in fruits:
+    print(fruit)
