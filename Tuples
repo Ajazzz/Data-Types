@@ -1,4 +1,5 @@
 # A tuple is an ordered collection of items that cannot be modified once created.
+# A tuple is similar to a list, but it is immutable, meaning you cannot change its contents once it has been created.
 
 # Creating a tuple
 my_tuple = (1, 2, 3)
@@ -9,3 +10,6 @@ print(my_tuple[0])  # prints 1
 # Iterating over a tuple
 for item in my_tuple:
     print(item)
+    
+numbers = (1, 2, 3)
+print(numbers[0]) # Output: 1  
