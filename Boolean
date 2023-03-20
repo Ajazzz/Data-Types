@@ -23,3 +23,12 @@ print(z)  # Output: True
 word = "hello"
 contains_e = "e" in word
 print(contains_e)  # Output: True
+
+
+# Combining multiple Boolean expressions using logical operators (and, or, not):
+
+a = 5
+b = 10
+c = 15
+result = (a < b) and (b < c) or not (a == c)
+print(result)  # Output: True
