@@ -5,3 +5,8 @@ True or False. Boolean values are often used to represent the truth value of a c
 #Here are some examples of how to use Boolean data types in Python:
 
 #Checking if two values are equal:
+
+a = 5
+b = 10
+c = a == b
+print(c)  # Output: False
