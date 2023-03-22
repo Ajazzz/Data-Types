@@ -6,3 +6,11 @@ Classes in Python encapsulate data and functions that operate on that data, prov
 They can be used to model real-world objects, such as a car or a person, or to represent abstract concepts, such as a queue or a stack.
 
 Here is an example of a simple class in Python:
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    
+    def say_hello(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
