@@ -1,0 +1,10 @@
+
+
+
+########
+Print the length of a string.
+
+string = "Hello, world!"
+print(len(string))
+
+#####
