@@ -89,3 +89,27 @@ string = "Hello,   world!  "
 print(string.replace(" ", ""))
 
 ##############
+Find the first occurrence of a substring in a string.
+
+string = "Hello, world!"
+substring = "world"
+print(string.find(substring))
+
+##########
+
+Check if a string contains only alphanumeric characters.
+
+string = "Hello123"
+print(string.isalnum())
+
+############
+Check if a string contains only alphabetical characters.
+
+string = "Hello"
+print(string.isalpha())
+
+##########
+
+These are just a few examples of Python string problems.
+There are many more ways to manipulate and work with strings in Python!
+
