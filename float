@@ -1,0 +1,10 @@
+# In Python, a float is a data type that represents decimal numbers. 
+It is a numeric type, just like integers, but with the ability to represent fractional values.
+Here's an example of defining a float variable in Python:
+
+my_float = 3.14
+print(my_float)
+Output: 3.14
+
+# You can perform arithmetic operations on floats just like you can with integers, 
+including addition, subtraction, multiplication, and division. Here are some examples:
