@@ -8,3 +8,11 @@ Output: 3.14
 
 # You can perform arithmetic operations on floats just like you can with integers, 
 including addition, subtraction, multiplication, and division. Here are some examples:
+
+x = 3.0
+y = 2.0
+
+print(x + y) # 5.0
+print(x - y) # 1.0
+print(x * y) # 6.0
+print(x / y) # 1.5
