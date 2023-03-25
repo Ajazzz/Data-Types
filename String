@@ -44,3 +44,48 @@ string = "Hello, world!"
 print(string.split())
 
 ###########
+
+Join a list of substrings into a single string.
+
+list_of_strings = ["Hello", "world", "!"]
+delimiter = " "
+print(delimiter.join(list_of_strings))
+
+###########
+
+Check if a string starts with a specific substring.
+
+string = "Hello, world!"
+substring = "H"
+print(string.startswith(substring))
+
+###########
+
+Check if a string ends with a specific substring.
+
+string = "Hello, world!"
+substring = "d!"
+print(string.endswith(substring))
+
+###########
+
+Reverse a string.
+
+string = "Hello, world!"
+print(string[::-1])
+
+##########
+
+Check if a string is a palindrome.
+
+string = "racecar"
+print(string == string[::-1])
+
+###########
+
+Remove all whitespace characters from a string.
+
+string = "Hello,   world!  "
+print(string.replace(" ", ""))
+
+##############
