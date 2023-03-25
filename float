@@ -33,6 +33,31 @@ y = Decimal('0.2')
 
 print(x + y) # 0.3
 
+##############
+
+# Problem 1: Rounding error
+print(0.1 + 0.2) # 0.30000000000000004
+
+# Solution to Problem 1: Use round() function
+print(round(0.1 + 0.2, 2)) # 0.3
+
+# Problem 2: Division by zero
+print(1.0/0.0) # Returns "inf"
+
+# Solution to Problem 2: Use math module
+import math
+print(math.inf) # Prints "inf"
+
+# Problem 3: Float comparison
+a = 0.1 + 0.2
+b = 0.3
+print(a == b) # Returns "False"
+
+# Solution to Problem 3: Use math.isclose() function
+import math
+print(math.isclose(a, b)) # Returns "True"
+
+############
 
 In summary, floats are a data type in Python used to represent decimal numbers. 
 They can be used in arithmetic operations, but may have rounding errors due to the limitations of binary representation. 
