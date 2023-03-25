@@ -7,4 +7,18 @@ Print the length of a string.
 string = "Hello, world!"
 print(len(string))
 
-#####
+#######
+
+Count the number of occurrences of a substring in a string.
+
+string = "Hello, world!"
+substring = "l"
+print(string.count(substring))
+
+#######
+Convert a string to uppercase.
+
+string = "Hello, world!"
+print(string.upper())
+
+#######
