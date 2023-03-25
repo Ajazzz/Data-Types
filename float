@@ -16,3 +16,9 @@ print(x + y) # 5.0
 print(x - y) # 1.0
 print(x * y) # 6.0
 print(x / y) # 1.5
+
+# One thing to keep in mind when working with floats is that they are not always exact. 
+This is because the computer represents floats in binary, and not all decimal numbers can be represented exactly in binary. 
+As a result, you may encounter small rounding errors in calculations involving floats. For example:
+
+print(0.1 + 0.2) # 0.30000000000000004
