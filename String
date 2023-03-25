@@ -22,3 +22,25 @@ string = "Hello, world!"
 print(string.upper())
 
 #######
+
+Convert a string to lowercase.
+
+string = "Hello, world!"
+print(string.lower())
+
+###########
+Replace all occurrences of a substring with another substring.
+
+string = "Hello, world!"
+substring = "l"
+replacement = "x"
+print(string.replace(substring, replacement))
+
+#############
+
+Split a string into a list of substrings.
+
+string = "Hello, world!"
+print(string.split())
+
+###########
