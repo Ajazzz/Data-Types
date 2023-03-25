@@ -22,3 +22,13 @@ This is because the computer represents floats in binary, and not all decimal nu
 As a result, you may encounter small rounding errors in calculations involving floats. For example:
 
 print(0.1 + 0.2) # 0.30000000000000004
+
+To avoid issues with rounding errors, you can use the decimal module in Python, 
+which provides a way to perform exact decimal arithmetic. Here's an example:
+
+from decimal import Decimal
+
+x = Decimal('0.1')
+y = Decimal('0.2')
+
+print(x + y) # 0.3
