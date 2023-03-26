@@ -160,7 +160,9 @@ print(my_string.lower())  # Output: "hello"
 my_string = "   hello   "
 print(my_string.strip())  # Output: "hello"
 
-
+# split(): Splits a string into a list of substrings based on a delimiter.
+my_string = "hello world"
+print(my_string.split())  # Output: ["hello", "world"]
 
 
 
