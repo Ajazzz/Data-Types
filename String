@@ -128,8 +128,24 @@ for i in range(len(my_string)):
 
 #########
 
+String concatenation
+
+String concatenation is the process of combining two or more strings together to create a single, longer string. 
+In Python, you can use the + operator to concatenate strings. Here is an example:
+
+first_name = "John"
+last_name = "Doe"
+full_name = first_name + " " + last_name
+print(full_name)
 
 
+Example 2:
+
+message = "Hello"
+message += " world!"
+print(message)
+
+##########
 
 
 
