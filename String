@@ -164,6 +164,10 @@ print(my_string.strip())  # Output: "hello"
 my_string = "hello world"
 print(my_string.split())  # Output: ["hello", "world"]
 
+# replace(): Replaces all occurrences of a substring with another substring.
+my_string = "hello world"
+print(my_string.replace("world", "Python"))  # Output: "hello Python"
+
 
 
 
