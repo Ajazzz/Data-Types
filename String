@@ -146,7 +146,15 @@ message += " world!"
 print(message)
 
 ##########
+Built-in string methods:
 
+#upper(): Returns a string in all uppercase letters.
+my_string = "hello"
+print(my_string.upper())  # Output: "HELLO"
+
+#lower(): Returns a string in all lowercase letters.
+my_string = "Hello"
+print(my_string.lower())  # Output: "hello"
 
 
 
