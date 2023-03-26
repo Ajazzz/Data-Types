@@ -173,7 +173,9 @@ my_string = "hello world"
 print(my_string.find("world"))  # Output: 6
 
 
-
+# count(): Returns the number of occurrences of a substring in a string.
+my_string = "hello world"
+print(my_string.count("l"))  # Output: 3
 
 
 
