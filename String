@@ -168,6 +168,9 @@ print(my_string.split())  # Output: ["hello", "world"]
 my_string = "hello world"
 print(my_string.replace("world", "Python"))  # Output: "hello Python"
 
+# find(): Returns the index of the first occurrence of a substring in a string, or -1 if the substring is not found.
+my_string = "hello world"
+print(my_string.find("world"))  # Output: 6
 
 
 
