@@ -119,8 +119,14 @@ for character in my_string:
  
 ##############
 
+Use of a for loop to iterate over a range of indices and access each character using indexing. 
+Here is an example:
 
+my_string = "hello"
+for i in range(len(my_string)):
+    print(my_string[i])
 
+#########
 
 
 
