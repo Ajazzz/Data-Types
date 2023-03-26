@@ -110,6 +110,40 @@ print(string.isalpha())
 
 ##########
 
+Use of a for loop to iterate over the characters in a string
+
+my_string = "hello"
+for character in my_string:
+    print(character)
+    
+ 
+##############
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 These are just a few examples of Python string problems.
 There are many more ways to manipulate and work with strings in Python!
 
