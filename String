@@ -156,7 +156,9 @@ print(my_string.upper())  # Output: "HELLO"
 my_string = "Hello"
 print(my_string.lower())  # Output: "hello"
 
-
+# strip(): Removes leading and trailing whitespace from a string.
+my_string = "   hello   "
+print(my_string.strip())  # Output: "hello"
 
 
 
