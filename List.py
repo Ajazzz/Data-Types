@@ -2,25 +2,25 @@
 # A list is a collection of items, which can be of different types such as strings, integers, or even other lists. 
 # Lists are mutable, meaning you can change their contents.
 
-Lists are a fundamental data type in Python and have several important use cases:
+#Lists are a fundamental data type in Python and have several important use cases:
 
-Collection of Data:
-Lists are used to store collections of data. They can store a mixture of data types, including strings, numbers, and even other lists. 
-This makes them versatile and useful for a wide range of applications.
-Mutable Data:
-Lists are mutable, meaning you can add, remove, or change their contents after they are created. 
-This makes them useful for situations where you need to modify the contents of a collection over time.
+#Collection of Data:
+#Lists are used to store collections of data. They can store a mixture of data types, including strings, numbers, and even other lists. 
+#This makes them versatile and useful for a wide range of applications.
+#Mutable Data:
+#Lists are mutable, meaning you can add, remove, or change their contents after they are created. 
+#This makes them useful for situations where you need to modify the contents of a collection over time.
 
-Iteration and Indexing:
-Lists can be easily iterated over using loops, and individual elements can be accessed using indexing. 
-This makes them useful for situations where you need to perform operations on each element of a collection.
+#Iteration and Indexing:
+#Lists can be easily iterated over using loops, and individual elements can be accessed using indexing. 
+#This makes them useful for situations where you need to perform operations on each element of a collection.
 
-Data Manipulation:
-Lists can be used to manipulate data by performing operations such as sorting, reversing, and filtering. 
-This makes them useful for data analysis and processing.
+# Data Manipulation:
+#Lists can be used to manipulate data by performing operations such as sorting, reversing, and filtering. 
+#This makes them useful for data analysis and processing.
 
-In summary, lists are an important data type in Python because they allow you to store and manipulate collections of data, 
-they are mutable, and they support indexing, iteration, and data manipulation.
+# In summary, lists are an important data type in Python because they allow you to store and manipulate collections of data, 
+# they are mutable, and they support indexing, iteration, and data manipulation.
 
 
 
