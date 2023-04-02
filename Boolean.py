@@ -1,6 +1,6 @@
 
 # In Python, the Boolean data type is a built-in data type that can take on one of two possible values:
-True or False. Boolean values are often used to represent the truth value of a condition or expression.
+# True or False. Boolean values are often used to represent the truth value of a condition or expression.
 
 #Here are some examples of how to use Boolean data types in Python:
 
