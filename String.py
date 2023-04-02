@@ -2,34 +2,34 @@
 
 
 ########
-Print the length of a string.
+#Print the length of a string.
 
 string = "Hello, world!"
 print(len(string))
 
 #######
 
-Count the number of occurrences of a substring in a string.
+#Count the number of occurrences of a substring in a string.
 
 string = "Hello, world!"
 substring = "l"
 print(string.count(substring))
 
 #######
-Convert a string to uppercase.
+#Convert a string to uppercase.
 
 string = "Hello, world!"
 print(string.upper())
 
 #######
 
-Convert a string to lowercase.
+#Convert a string to lowercase.
 
 string = "Hello, world!"
 print(string.lower())
 
 ###########
-Replace all occurrences of a substring with another substring.
+#Replace all occurrences of a substring with another substring.
 
 string = "Hello, world!"
 substring = "l"
