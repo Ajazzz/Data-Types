@@ -7,6 +7,7 @@ This repository contains a comprehensive guide to some of the most common data t
 - Boolean Data Type, \n
 - Character Data Type, \n
 - String Data Type, 
+
 Each data type is described in detail, including its purpose, common use cases, and examples of code demonstrating how to work with the data type.
 
 ### Contributing
