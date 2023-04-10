@@ -1,7 +1,7 @@
 # Data-Types
 In computer programming, data types refer to the classification of different types of data that a programming language can work with. Each data type defines a set of values that can be stored and the operations that can be performed on them. Understanding data types is crucial in programming as it allows developers to write efficient and bug-free code.
 
-This repository contains a comprehensive guide to some of the most common data types used in programming languages, including:
+This repository contains a comprehensive guide to some of the most common **data types** used in programming languages, including:
 
 - Numeric Data Types,
 - Boolean Data Type, 
