@@ -3,7 +3,7 @@ In computer programming, data types refer to the classification of different typ
 
 This repository contains a comprehensive guide to some of the most common data types used in programming languages, including:
 
-Numeric Data Types, \n
+- Numeric Data Types,
 Boolean Data Type, \n
 Character Data Type, \n
 String Data Type, \n
