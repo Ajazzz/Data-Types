@@ -9,6 +9,6 @@ Character Data Type, \n
 String Data Type, \n
 Each data type is described in detail, including its purpose, common use cases, and examples of code demonstrating how to work with the data type.
 
-Contributing
+### Contributing
 If you'd like to contribute to this guide, please feel free to open a pull request. We welcome contributions that improve the clarity or accuracy of the information in this guide, as well as suggestions for additional content.
 
