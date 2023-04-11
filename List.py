@@ -1,4 +1,4 @@
-##List:
+## List:
 # A list is a collection of items, which can be of different types such as strings, integers, or even other lists. 
 # Lists are mutable, meaning you can change their contents.
 
@@ -32,6 +32,8 @@
 fruits = ['apple', 'banana', 'cherry']
 fruits.append('orange')
 print(fruits) # Output: ['apple', 'banana', 'cherry', 'orange']
+
+fruits = ['apple', 'banana', 'cherry']
 
 #Removing elements from a list: To remove an element from a list, you can use the remove() method. For example:
 
