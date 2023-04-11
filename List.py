@@ -39,6 +39,7 @@ fruits = ['apple', 'banana', 'cherry']
 fruits.remove('banana')
 print(fruits) # Output: ['apple', 'cherry']
 
+#Remove an element at a specified index location.
 fruits = ['apple', 'banana', 'cherry']
 fruits.pop(2)
 print(fruits) #Output: ['apple', 'banana']
