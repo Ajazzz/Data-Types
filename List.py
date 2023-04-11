@@ -77,3 +77,5 @@ print('orange' in fruits) # Output: False
 
 # Count() Methode returns the number of specified elements occurance.
 fruits = ['apple', 'banana', 'cherry', 'apple']
+fruits.count('apple')
+print(fruits) #Output: 
