@@ -39,6 +39,10 @@ fruits = ['apple', 'banana', 'cherry']
 fruits.remove('banana')
 print(fruits) # Output: ['apple', 'cherry']
 
+fruits = ['apple', 'banana', 'cherry']
+fruits.pop(2)
+print(fruits) #Output: ['apple', 'banana']
+
 #Sorting a list: To sort a list in ascending order, you can use the sort() method. For example:
 
 numbers = [3, 5, 1, 4, 2]
