@@ -33,13 +33,18 @@ fruits = ['apple', 'banana', 'cherry']
 fruits.append('orange')
 print(fruits) # Output: ['apple', 'banana', 'cherry', 'orange']
 
-fruits = ['apple', 'banana', 'cherry']
-fruits.insert()
-#Removing elements from a list: To remove an element from a list, you can use the remove() method. For example:
 
+# insert: If we want to add an element at a specific location we need to use insert()
+fruits = ['apple', 'banana', 'cherry']
+fruits.insert(3,'mango')
+
+
+
+#Removing elements from a list: To remove an element from a list, you can use the remove() method. For example:
 fruits = ['apple', 'banana', 'cherry']
 fruits.remove('banana')
 print(fruits) # Output: ['apple', 'cherry']
+
 
 #Remove an element at a specified index location.
 fruits = ['apple', 'banana', 'cherry']
