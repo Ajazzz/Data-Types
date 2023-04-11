@@ -51,25 +51,27 @@ fruits = ['apple', 'banana', 'cherry']
 fruits.pop(2)
 print(fruits) #Output: ['apple', 'banana']
 
-#Sorting a list: To sort a list in ascending order, you can use the sort() method. For example:
 
+#Sorting a list: To sort a list in ascending order, you can use the sort() method. For example:
 numbers = [3, 5, 1, 4, 2]
 numbers.sort()
 print(numbers) # Output: [1, 2, 3, 4, 5]
 
-#Reversing a list: To reverse the order of a list, you can use the reverse() method. For example:
 
+#Reversing a list: To reverse the order of a list, you can use the reverse() method. For example:
 fruits = ['apple', 'banana', 'cherry']
 fruits.reverse()
 print(fruits) # Output: ['cherry', 'banana', 'apple']
 
-#Accessing elements in a list: To access an element in a list, you can use the index of the element within square brackets. For example:
 
+
+#Accessing elements in a list: To access an element in a list, you can use the index of the element within square brackets. For example:
 fruits = ['apple', 'banana', 'cherry']
 print(fruits[0]) # Output: 'apple'
 
-#Checking if an element is in a list: To check if an element is in a list, you can use the in keyword. For example:
 
+
+#Checking if an element is in a list: To check if an element is in a list, you can use the in keyword. For example:
 fruits = ['apple', 'banana', 'cherry']
 print('banana' in fruits) # Output: True
 print('orange' in fruits) # Output: False
