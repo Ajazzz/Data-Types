@@ -34,7 +34,7 @@ fruits.append('orange')
 print(fruits) # Output: ['apple', 'banana', 'cherry', 'orange']
 
 fruits = ['apple', 'banana', 'cherry']
-
+fruits.insert()
 #Removing elements from a list: To remove an element from a list, you can use the remove() method. For example:
 
 fruits = ['apple', 'banana', 'cherry']
