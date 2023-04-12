@@ -81,4 +81,7 @@ fruits.count('apple')
 print(fruits) # Output: 2
 
 
-#Index
+# Index() methode returns the index of the first element.
+
+
+
