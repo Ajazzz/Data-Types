@@ -84,6 +84,6 @@ print(fruits) # Output: 2
 # Index() methode returns the index of the first element.
 fruits=['apples','oranges','banana','mangoes','grapes','banana','strawberry']
 fruits.index('banana')
-
+print(fruits) # Output: 2
 
 
