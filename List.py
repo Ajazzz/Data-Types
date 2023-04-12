@@ -79,3 +79,6 @@ print('orange' in fruits) # Output: False
 fruits = ['apple', 'banana', 'cherry', 'apple']
 fruits.count('apple')
 print(fruits) # Output: 2
+
+
+#Index
