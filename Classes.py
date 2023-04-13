@@ -36,10 +36,10 @@ Classes can have many more attributes and methods, and can be used to build comp
 
 
 
-######
+'''
 #In Python, classes are used to create new user-defined data types that encapsulate both data and the functions that operate on that data. 
 #They are a fundamental concept in object-oriented programming (OOP) and are used to create objects that have certain attributes (data) and,
-#methods (functions) that can be called to operate on that data.
+#methods (functions) that can be called to operate on that data.'''
 
 #Here are some common use cases for classes in Python:
 
