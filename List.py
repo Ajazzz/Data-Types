@@ -4,7 +4,7 @@
 
  Lists are a fundamental data type in Python and have several important use cases:'''
 
-#Collection of Data:
+'''Collection of Data:
 #Lists are used to store collections of data. They can store a mixture of data types, including strings, numbers, and even other lists. 
 #This makes them versatile and useful for a wide range of applications.
 #Mutable Data:
@@ -22,7 +22,8 @@
 # In summary, lists are an important data type in Python because they allow you to store and manipulate collections of data, 
 # they are mutable, and they support indexing, iteration, and data manipulation.
 
-#Lists are a commonly used data type in Python, and there are a few common problems that can arise when working with them. 
+#Lists are a commonly used data type in Python, and there are a few common problems that can arise when working with them. '''
+
 #Here are some examples of list problems and solutions:
 
 #Adding elements to a list: To add an element to a list, you can use the append() method. For example:
