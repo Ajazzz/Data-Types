@@ -1,6 +1,6 @@
-## List:
+''' List:
 # A list is a collection of items, which can be of different types such as strings, integers, or even other lists. 
-# Lists are mutable, meaning you can change their contents.
+# Lists are mutable, meaning you can change their contents.'''
 
 #Lists are a fundamental data type in Python and have several important use cases:
 
