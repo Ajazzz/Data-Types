@@ -41,7 +41,7 @@ Classes can have many more attributes and methods, and can be used to build comp
 #They are a fundamental concept in object-oriented programming (OOP) and are used to create objects that have certain attributes (data) and,
 #methods (functions) that can be called to operate on that data.'''
 
-'''Here are some common use cases for classes in Python:
+'''Here are some common use cases for classes in Python:'''
 
 #Modeling real-world objects: Classes can be used to represent real-world objects like people, cars, 
 #or buildings, by defining their attributes and behaviors as class variables and methods.
