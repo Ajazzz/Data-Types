@@ -44,7 +44,7 @@ Classes can have many more attributes and methods, and can be used to build comp
 ''' Here are some common use cases for classes in Python: '''
 
 '''odeling real-world objects: Classes can be used to represent real-world objects like people, cars, 
-#or buildings, by defining their attributes and behaviors as class variables and methods.
+#or buildings, by defining their attributes and behaviors as class variables and methods.'''
 
 #Code organization: Classes can be used to organize related functions and data into a single entity. 
 #This makes the code more modular, easier to understand, and easier to maintain.
