@@ -4,7 +4,7 @@ Boolean values are often used to represent the truth value of a condition or exp
 
 #Here are some examples of how to use Boolean data types in Python:
 
-#Checking if two values are equal:
+''' Checking if two values are equal: ''' 
 
 a = 5
 b = 10
