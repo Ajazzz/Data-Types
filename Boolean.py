@@ -11,7 +11,7 @@ b = 10
 c = a == b
 print(c)  # Output: False
 
-''' Checking if a number is greater than or equal to another number:
+''' Checking if a number is greater than or equal to another number: '''
 
 x = 8
 y = 4
