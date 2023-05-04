@@ -18,7 +18,7 @@ y = 4
 z = x >= y
 print(z)  # Output: True
 
-# Checking if a string contains a certain character:
+''' Checking if a string contains a certain character: '''
 
 word = "hello"
 contains_e = "e" in word
