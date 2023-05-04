@@ -25,7 +25,7 @@ contains_e = "e" in word
 print(contains_e)  # Output: True
 
 
-# Combining multiple Boolean expressions using logical operators (and, or, not):
+''' Combining multiple Boolean expressions using logical operators (and, or, not): '''
 
 a = 5
 b = 10
