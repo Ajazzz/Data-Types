@@ -20,7 +20,7 @@ class Person:
 #which takes two arguments name and age and initializes the corresponding instance variables. 
 #It also has a method say_hello that prints a message using the instance variables.'''
 
-'''To create an object of the Person class, we can do:'''
+''' To create an object of the Person class, we can do:'''
 
 person = Person("Alice", 30)
 
