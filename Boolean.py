@@ -33,4 +33,4 @@ c = 15
 result = (a < b) and (b < c) or not (a == c)
 print(result)  # Output: True
 
-''' In this example, result is True because the expression (a < b) and (b < c) is true, and the expression not (a == c) is also true.'''
+''' In this example, result is True because the expression (a < b) and (b < c) is true, and the expression not (a == c) is also true. '''
