@@ -26,7 +26,7 @@ person = Person("Alice", 30)
 
 
 ''' This creates a new instance of the Person class with the name "Alice" and age 30. 
-We can call the say_hello method on this instance to print a greeting:'''
+We can call the say_hello method on this instance to print a greeting: '''
 
 person.say_hello()  # Output: Hello, my name is Alice and I am 30 years old.
 
