@@ -16,7 +16,7 @@ class Person:
         print(f"Hello, my name is {self.name} and I am {self.age} years old.")
         
         
-'''In this example, the Person class has a constructor method __init__, 
+''' In this example, the Person class has a constructor method __init__, 
 #which takes two arguments name and age and initializes the corresponding instance variables. 
 #It also has a method say_hello that prints a message using the instance variables.'''
 
